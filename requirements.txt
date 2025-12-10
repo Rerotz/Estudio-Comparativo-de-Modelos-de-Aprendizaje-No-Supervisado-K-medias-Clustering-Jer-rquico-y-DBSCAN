@@ -1,0 +1,12 @@
+# ==========================================
+# ENTORNO DE EJECUCIÓN: GOOGLE COLAB
+# ==========================================
+# Nota: Google Colab ya trae preinstaladas la mayoría de estas librerías.
+# Este archivo sirve para reproducir el entorno en local si es necesario.
+
+pandas==2.2.0
+numpy==1.26.0
+matplotlib==3.8.0
+seaborn==0.13.0
+scikit-learn==1.4.0
+scipy==1.12.0
